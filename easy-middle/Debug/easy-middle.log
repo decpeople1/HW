@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\turar\source\repos\easy-middle\easy-middle\source.cpp(34): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  easy-middle.vcxproj -> C:\Users\Turar\source\repos\easy-middle\Debug\easy-middle.exe
